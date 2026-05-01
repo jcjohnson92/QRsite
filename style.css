@@ -45,6 +45,5 @@ h1 {
 p {
     font-size: 1rem;
     font-family: "Outfit";
-    padding-bottom: 20px;
-    color: var(--main-slate300);
+    color: var(--main-slate500);
 }
